@@ -1,2 +1,2 @@
-# projeto1-portifolio
+# projeto1-portfolio
 Criando meu portfólio..
